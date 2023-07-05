@@ -1,0 +1,120 @@
+.page2 {
+    text-align: center;
+    background-color: rgb(0, 36, 58);
+    padding: 30px;
+    margin: 30px;
+}
+
+#p1 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+#p2 {
+    text-align: center;
+    color: green;
+    font-size: 40px;
+}
+
+.page2 input[type='submit'] {
+    margin: 0 auto;
+}
+
+#headerbusiness {
+    text-align: center;
+}
+
+.page2-flexbox {
+    display: flex;
+    justify-content: center;
+}
+
+#images {
+    width: 300px;
+    height: 300px;
+}
+
+#wallets {
+    margin-right: 10px;
+    margin-bottom: 40px;
+    width: 300px;
+    height: 400px;
+}
+
+#wallets1 {
+    text-align: center;
+}
+
+#wallets2 {
+    text-align: center;
+}
+
+#receipt {
+    margin-right: 10px;
+    margin-bottom: 40px;
+    width: 300px;
+    height: 400px;
+}
+
+#seconds {
+    margin-right: 10px;
+    margin-bottom: 40px;
+    width: 300px;
+    height: 400px;
+}
+
+.flex-item {
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgb(180, 197, 213);
+    border: 2px solid;
+}
+
+#create-inv-button {
+    background: none;
+    border: none;
+    margin-top: 10px;
+    color: grey;
+}
+
+#invoice-1001 {
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+#invoice-price {
+    color: green;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+#online-payments {
+    margin-left: 10px;
+}
+
+#checkbox {
+    margin-left: 40px;
+    margin-top: 7px;
+}
+
+.checkbox-label {
+    display: inline-flex;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#learn-more-button {
+    padding: 10px;
+}
